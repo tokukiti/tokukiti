@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [得田 渉介/ Shosuke_Tokuda]
+# Hi there 👋 I'm 得田 渉介/ Shosuke_Tokuda
 
 現在、大学院で時空間グラフニューラルネットワーク（ST-GAT）を用いたバスケットボールのデータ解析を研究しています。
 
@@ -14,6 +14,4 @@
 - PyTorchを用いた機械学習パイプラインの実装と精度改善のPDCA
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tokukiti&show_icons=true&theme=radium" alt="GitHub Stats" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=tokukiti&theme=radium)
